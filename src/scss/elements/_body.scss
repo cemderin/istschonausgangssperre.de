@@ -1,0 +1,18 @@
+body {
+    font-family: Montserrat;
+    font-weight: 500;
+    line-height: 1.25em;
+    padding: $padding 0;
+    color: lighten(#000, 20);
+  
+    @include mq($from: desktop) {
+      display:flex;
+      flex-flow: row wrap;
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    a {
+        color: #000;
+    }
+  }

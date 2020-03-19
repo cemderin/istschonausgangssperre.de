@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,500,600,700,900&display=swap');
+@import "settings";
+
+@import "../../node_modules/node-reset-scss/scss/reset";
+@import "../../node_modules/sass-mq/mq";
+
+@import "elements/body";
+@import "elements/container";
+@import "elements/main";
+@import "elements/footer";

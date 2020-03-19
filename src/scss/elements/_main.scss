@@ -1,0 +1,58 @@
+main {
+    @extend .container;
+    @include mq($from: desktop) {
+      flex: 1 1 auto;
+      width:75%;
+    }
+  
+    h1 {
+      font-size: 1.5em;
+      font-weight: bold;
+      margin-bottom: $padding*2;
+    }
+  
+    p+h1 {
+      margin-top: $padding*2;
+    }
+  
+    h2 {
+      font-size: 1.25em;
+      font-weight: bold;
+      margin-bottom: $padding;
+    }
+  
+    p+h2 {
+      margin-top: $padding*2;
+    }
+  
+    h3 {
+      font-size: 1.15em;
+      font-weight: bold;
+      margin-bottom: $padding;
+    }
+  
+    p+h3 {
+      margin-top: $padding*2;
+    }
+  }
+
+body.home {
+    main {
+        text-align: center;
+        min-height: 100vh;
+        margin-top:5em;
+
+        h1 {
+            font-size: 4em;
+            line-height: 1em;
+
+            @include mq($from: tablet) {
+                font-size: 6em;
+            }
+
+            @include mq($from: desktop) {
+                font-size: 8em;
+            }
+        }
+    }
+}

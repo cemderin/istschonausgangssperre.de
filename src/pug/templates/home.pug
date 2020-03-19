@@ -1,0 +1,15 @@
+doctype html
+html
+    head
+        if pagetitle
+            title= [pagetitle, 'Ist schon Ausgangssperre?'].join(' - ')
+        else
+            title Ist schon Ausgangssperre?
+        link(rel="stylesheet" href=baseDir + "index.css" type="text/css")
+        meta(name="description", content=description)
+        meta( name='viewport', content='width=device-width, initial-scale=1' )
+
+    body.home
+        include ../elements/main
+
+        include ../elements/footer

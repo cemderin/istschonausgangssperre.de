@@ -1,0 +1,23 @@
+{
+  "name": "istschonausgangssperre.de",
+  "version": "0.0.0",
+  "main": "index.js",
+  "repository": "https://cemderin@github.com/cemderin/istschonausgangssperre.de.git",
+  "author": "Cem Derin <cemyderin@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {},
+  "scripts": {
+    "dev": "node node_modules/@cemderin/static-site-generator --mode=development",
+    "build": "node node_modules/@cemderin/static-site-generator",
+    "commit": "npx git-cz",
+    "release": "npx standard-version"
+  },
+  "devDependencies": {
+    "@cemderin/static-site-generator": "^0.0.3",
+    "git-cz": "^4.3.1",
+    "node-reset-scss": "^1.0.1",
+    "sass-mq": "^5.0.1",
+    "standard-version": "^7.1.0"
+  }
+}

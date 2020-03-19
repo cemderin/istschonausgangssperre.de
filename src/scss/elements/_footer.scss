@@ -1,0 +1,17 @@
+footer {
+    @extend .container;
+    font-size: 0.75em;
+    color: lighten(#000, 40);
+  
+    @include mq($from: tablet) {
+      flex:0 0 100%;
+      display:flex;
+    }
+
+    .footer__edit {
+        flex-grow: 1;
+        @include mq($from: tablet) {
+            text-align: right;
+        }
+    }
+  }
