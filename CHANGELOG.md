@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.4](https://github.com/cemderin/istschonausgangssperre.de/compare/v0.0.3...v0.0.4) (2020-03-20)
+
+
+### Features
+
+* 🎸 Add latest news ([d9494e4](https://github.com/cemderin/istschonausgangssperre.de/commit/d9494e48a2d52ba30692f7459065fb6e73f4175a))
+
 ### [0.0.3](https://github.com/cemderin/istschonausgangssperre.de/compare/v0.0.2...v0.0.3) (2020-03-20)
 
 
