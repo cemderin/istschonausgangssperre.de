@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.6](https://github.com/cemderin/istschonausgangssperre.de/compare/v0.0.5...v0.0.6) (2020-03-20)
+
+
+### Features
+
+* 🎸 Add curfew news for Saarland ([4ba2245](https://github.com/cemderin/istschonausgangssperre.de/commit/4ba2245c8567110adc7ca42a7cfcf3283f2202bc))
+
 ### [0.0.5](https://github.com/cemderin/istschonausgangssperre.de/compare/v0.0.4...v0.0.5) (2020-03-20)
 
 
