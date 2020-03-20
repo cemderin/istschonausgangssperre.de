@@ -3,5 +3,5 @@
 ## Ist schon Ausgangssperre?
 # Nein*
 
-* Nur in [Mitterteich](https://www.spiegel.de/panorama/gesellschaft/coronavirus-in-mitterteich-ausgangssperre-in-bayern-was-ist-noch-erlaubt-a-34b0f3fd-7ca7-434d-9023-2e2f587c874e)
-* und in [Freiburg](https://www.tagesschau.de/inland/freiburg-ausgangssperre-101.html) 
+* Nur in [Bayern](https://www.spiegel.de/politik/deutschland/coronavirus-bayern-verhaengt-ausgangssperre-a-09224291-7998-487e-ba4f-11616b536b48)
+* … und in [Freiburg](https://www.tagesschau.de/inland/freiburg-ausgangssperre-101.html)
