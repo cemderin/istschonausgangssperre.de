@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.5](https://github.com/cemderin/istschonausgangssperre.de/compare/v0.0.4...v0.0.5) (2020-03-20)
+
+
+### Features
+
+* 🎸 Add info to bavaria curfew ([cabae51](https://github.com/cemderin/istschonausgangssperre.de/commit/cabae51f6b52aa6101153b101629a266ea0ffaab))
+
 ### [0.0.4](https://github.com/cemderin/istschonausgangssperre.de/compare/v0.0.3...v0.0.4) (2020-03-20)
 
 
